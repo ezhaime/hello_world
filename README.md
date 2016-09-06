@@ -1,2 +1,6 @@
 # hello_world
-you know you gotta greet the world before you can do anything else on a new API
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
